@@ -2,4 +2,4 @@
 
 
 To make a link: 
-[click here for the page]
+[https://sunday.github.io/]
